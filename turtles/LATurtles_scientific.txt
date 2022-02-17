@@ -1,6 +1,6 @@
-Chelydra_serpentina
-Kinosternon_subrubrum 
-Terrapene_carolina
-Apalone_spinifera
-Trachemys_scripta
-Chelonoidis_nigra
+1. Chelydra_serpentina
+2. Kinosternon_subrubrum 
+3. Terrapene_carolina
+4. Apalone_spinifera
+5. Trachemys_scripta
+
